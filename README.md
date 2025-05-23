@@ -15,7 +15,7 @@
 
 ## Tecnologias que domino e pratico:
 
-- Node, Express, Python, Django. AI, ML, LLM
+- Node, Express, Python, Django, FastAPI, Go, AI, ML, LLM, OpenAI
 - React, Next, Svelte, Javascript,Typescript, TailwindCSS
 - SQL, PostgreSQL, MySQL, MongoDB
 - AWS (S3, Lambda, API Gateway, ECS), Azure, Docker, Kubernetes, CI/CD
