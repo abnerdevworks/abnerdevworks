@@ -3,7 +3,7 @@
 
 ## I'm Abner!
  
-… Full Stack Developer with 7+ years of experience building scalable web apps using Node.js, Python, and TypeScript.
+… Full Stack Developer with 6+ years of experience building scalable web apps using React, Node.js, Python, and TypeScript.
 <br/>
 - Skilled in API design, cloud infrastructure (AWS), and modern frameworks like NestJS and SvelteKit.
 
